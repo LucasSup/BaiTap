@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://business.momo.vn/assets/landingpage/img/158f1e1751b85c5ee7cd2bf635770e4d-banner-2.png);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+.container{
+    position: absolute;
+    width: 320px;
+    height: 350px;
+    top: 20%;
+    left: 57%;
+    background-color: #fff;
+    display: block;
+    justify-content: space-around;
+}
+
+img{
+    width: 40px;
+}
+
+
+#logo-momo-jpg {
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.header{
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+}
+logo{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 10px;
+    }
+ul{
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+}
+p {
+    display: block;
+    margin-block-start: 0.2em;
+    margin-block-end: 0em;
+    margin-inline-start: 1px;
+    margin-inline-end: 0px;
+}
